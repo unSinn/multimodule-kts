@@ -1,3 +1,3 @@
 module com.noser.hello {
-    requires jdk.unsupported;
+    requires com.noser.a;
 }
