@@ -1,11 +1,6 @@
 group = "com.noser"
 version = "1.0-SNAPSHOT"
 
-val moduleName by extra { "com.noser.hello" }
-
-extra["moduleName"] = "com.noser.hello"
-
-
 buildscript {
     repositories {
         mavenCentral()
